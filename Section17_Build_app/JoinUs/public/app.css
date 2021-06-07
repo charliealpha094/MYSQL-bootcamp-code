@@ -1,0 +1,29 @@
+/* Done by Carlos Amaral (2021/05/12) */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+    color: rgb(66,69,86);
+    height: 100%;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 100px;
+    line-height: 250px;
+    font-weight: 100;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 100;
+}
+
+.form {
+    width: 300px;
+}
